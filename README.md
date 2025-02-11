@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuğba Sena Özdal</h1>
-<h3 align="center">A passionate full stack developer from Türkiye</h3>
+<h3 align="center">A passionate software engineering student from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
